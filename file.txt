@@ -4,4 +4,9 @@ New line
 One
 Two
 1
+<<<<<<< HEAD:file
 12345
+=======
+2
+3
+>>>>>>> main:file.txt
